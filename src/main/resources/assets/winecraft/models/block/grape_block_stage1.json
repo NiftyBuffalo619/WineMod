@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "winecraft:blocks/grape_block_stage1"
+  }
+}
